@@ -8,7 +8,7 @@ hamburger.addEventListener('click', () => {
 
 
 const typed = new Typed('.multiple', {
-    strings: ['Front-End Developer', 'Youtuber', 'Freelancer'],
+    strings: ['Front-End Developer', 'Freelancer'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
